@@ -1,0 +1,10 @@
+selenium
+pysimpleguiqt
+pyside2
+pysimplegui
+pandas
+numpy
+matplotlib
+lxml
+notebook
+auto-py-to-exe
